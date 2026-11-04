@@ -1,0 +1,9 @@
+.header_block {
+    background-color: sienna;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
